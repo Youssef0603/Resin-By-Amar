@@ -1,0 +1,30 @@
+{
+    "countries": [
+        { "value": "+93", "label": "Afghanistan" },
+        { "value": "+374", "label": "Armenia" },
+        { "value": "+973", "label": "Bahrain" },
+        { "value": "+994", "label": "Azerbaijan" },
+        { "value": "+973", "label": "Bahrain" },
+        { "value": "+20", "label": "Egypt" },
+        { "value": "+995", "label": "Georgia" },
+        { "value": "+964", "label": "Iraq" },
+        { "value": "+972", "label": "Israel" },
+        { "value": "+962", "label": "Jordan" },
+        { "value": "+965", "label": "Kuwait" },
+        { "value": "+961", "label": "Lebanon" },
+        { "value": "+218", "label": "Libya" },
+        { "value": "+373", "label": "Moldova" },
+        { "value": "+212", "label": "Morocco" },
+        { "value": "+968", "label": "Oman" },
+        { "value": "+970", "label": "Palestinian Territory" },
+        { "value": "+974", "label": "Qatar" },
+        { "value": "+966", "label": "Saudi Arabia" },
+        { "value": "+963", "label": "Syria" },
+        { "value": "+992", "label": "Tajikistan" },
+        { "value": "+90", "label": "Turkey" },
+        { "value": "+993", "label": "Turkmenistan" },
+        { "value": "+971", "label": "United Arab Emirates" },
+        { "value": "+998", "label": "Uzbekistan" },
+        { "value": "+967", "label": "Yemen" }
+    ]
+}
